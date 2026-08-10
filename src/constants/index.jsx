@@ -137,19 +137,19 @@ export const PROJECTS = [
     id: 1,
     name: "Feedback Fusion",
     image: FeedbackFusion,
-    Link: "https://feedback-fusion.urvish.website/",
+    Link: "https://feedback-fusion.urvish.site/",
   },
   {
     id: 2,
     name: "i-NAV Tracker",
     image: iNAVTracker,
-    Link: "https://inav-tracker.urvish.website/",
+    Link: "https://inav-tracker.urvish.site/",
   },
   {
     id: 3,
     name: "QuickNote",
     image: QuickNote,
-    Link: "https://quicknote.urvish.website/",
+    Link: "https://quicknote.urvish.site/",
   },
 ];
 
